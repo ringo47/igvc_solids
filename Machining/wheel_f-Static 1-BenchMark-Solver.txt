@@ -1,0 +1,27 @@
+Solver 4.545 Linear-static-solver-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 4.545 Loading-and-preparing-input-data-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 4.759 Loading-and-preparing-input-data-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 4.759 Computing-load-vector-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 4.985 Computing-load-vector-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.123 FFEPlus-Solver-start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.136 FFEPlus-Solver-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.257 Computing-stresses-for-load-case=1-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.258 Computing-reaction-forces-for-load-case(LCASE)=1-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.483 Computing-reaction-forces-for-load-case(LCASE)=1-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.503 Computing-stresses-for-load-case=1-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.541 Linear-static-solver-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SOLVER TYPE= FFEPlus (PCG Iterative Solver)
+Number of Equations (NEQ)=38637
+Number of Nodal points (NUMNP)=13973
+Number of Pseudo nodes (NUMPS)=0
+Number of Elements (NUME)=8206
+Number of Pseudo Elements (NUMP)=0
+SOLUTION TIME LOG
+Time for Input Data Transfer from Database =0.730000
+TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX (STF_PHASE)=0.025000
+TIME FOR FFEPlus (PCG ITERATIVE SOLVER) =1.163000
+TIME FOR GAP & CONTACT ITERATIONS (CNT_PHASE)=0.000000
+TIME FOR REACTION FORCE & DISP UPDATE TO POST (REC_PAHS)=0.118000
+TIME FOR STRESS CALCULATION (STS_PHASE)=0.246000
+TIME FOR WRITING POST PROCESSING INFORMATION (PST_PHASE)=0.009000
+TOTAL SOLUTION TIME (TOT_TIME)=2.237000

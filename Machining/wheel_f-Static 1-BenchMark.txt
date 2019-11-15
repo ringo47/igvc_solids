@@ -1,0 +1,89 @@
+Host = RINGO-MSI
+CPU = Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz 10000MHz
+Number of CPU = 8
+Physical Memory = 8GB
+OS = Windows 10 18362
+SWVersion = SOLIDWORKS 2018_SP3.0
+User = vsoli
+
+Mesher Type = CB
+Max ElemSize =  0m
+Min ElemSize =  0m
+Number of Segments =  8
+
+Mesh 0.000 CreateMesh-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.000 MeshPreprocessing-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.000 MeshPreparation-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.153 MeshPreparation-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.153 JointContactCheck-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.153 JointContactCheck-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.153 MeshPreprocessing-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.153 SolidMesh-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.448 SetMemoryCopySolid-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.530 SetMemoryCopySolid-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.530 ImprintAndSplit-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.563 ImprintAndSplit-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.563 TransferMeshControl-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.569 TransferMeshControl-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.580 SolidSurfaceMesh-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 0.582 SolidSurfaceMesh-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.017 SolidSurfaceMesh-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.017 SurfaceMeshWriteData-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.057 SurfaceMeshWriteData-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.057 VolumeMesh-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.478 VolumeMesh-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.478 VolumeMeshDataRead-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.553 VolumeMeshDataRead-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.554 MeshDataConstruct-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.557 NodeMerge-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.557 NodeMerge-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.557 BadElementChecking-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.557 BadElementChecking-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.557 GenerateJointContactInfo-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.559 GenerateJointContactInfo-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.562 MeshDataConstruct-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.631 SolidMesh-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.632 BeamMesh-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 1.632 BeamMesh-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Mesh 2.184 CreateMesh-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Pre 2.193 TransferDataToSolver-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Pre 3.006 TransferDataToSolver-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 3.006 Solver-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+Start FileTime = 13218001091303
+  
+
+Solver 4.545 Linear-static-solver-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 4.545 Loading-and-preparing-input-data-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 4.759 Loading-and-preparing-input-data-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 4.759 Computing-load-vector-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 4.985 Computing-load-vector-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 5.123 FFEPlus-Solver-start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.136 FFEPlus-Solver-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.257 Computing-stresses-for-load-case=1-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.258 Computing-reaction-forces-for-load-case(LCASE)=1-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.483 Computing-reaction-forces-for-load-case(LCASE)=1-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.503 Computing-stresses-for-load-case=1-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Solver 6.541 Linear-static-solver-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+SOLVER TYPE= FFEPlus (PCG Iterative Solver)
+Number of Equations (NEQ)=38637
+Number of Nodal points (NUMNP)=13973
+Number of Pseudo nodes (NUMPS)=0
+Number of Elements (NUME)=8206
+Number of Pseudo Elements (NUMP)=0
+SOLUTION TIME LOG
+Time for Input Data Transfer from Database =0.730000
+TIME FOR CALCULATION OF STRUCTURE STIFFNESS MATRIX (STF_PHASE)=0.025000
+TIME FOR FFEPlus (PCG ITERATIVE SOLVER) =1.163000
+TIME FOR GAP & CONTACT ITERATIONS (CNT_PHASE)=0.000000
+TIME FOR REACTION FORCE & DISP UPDATE TO POST (REC_PAHS)=0.118000
+TIME FOR STRESS CALCULATION (STS_PHASE)=0.246000
+TIME FOR WRITING POST PROCESSING INFORMATION (PST_PHASE)=0.009000
+TOTAL SOLUTION TIME (TOT_TIME)=2.237000
+
+
+Solver 6.716 Solver-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Post 7.022 ShowFirstPlot-Start 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Post 7.385 ShowFirstPlot-End 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+!Phase,Wall,Mark,UCPU,SCPU,WSP,WS,CPU,QPPP,QPP,QNPPP,QNPP,PF,PPF,HNDL,VB,PVB,PID,0,FP,MaxFP,Read,Write,Sim_Read_Calls,Sim_Read_Time,BulkReadBytesReq,Sim_Read_Bytes,Sim_Write_Calls,Sim_Write_time,BulkWriteBytesReq,Sim_Write_Bytes  
+!Only Phase, Wall, Mark are valid output.  
